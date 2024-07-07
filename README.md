@@ -7,6 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/SeanChurchman/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SeanChurchman/osTicket-lifecycle)
 - <b>Virtual Private Networks</b>
-  - [Configuring a VPN](https://drive.google.com/file/d/1FFQRwzX2O0asLmqIX9zOtqh9rdsqmDYS/view?usp=drive_link)
+  - [Configuring a VPN](https://github.com/SeanChurchman/Virtual-Private-Networks)
 
 [linkedin]: (https://www.linkedin.com/in/seanchurchman/)
