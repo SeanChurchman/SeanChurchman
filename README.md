@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SeanChurchman/osTicket-lifecycle)
     
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory (On-Premises) in Azure]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+  - [Configuring Active Directory (On-Premises) in Azure](https://github.com/SeanChurchman/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SeanChurchman/azure-network-protocols)
 
 - <b>Virtual Private Networks</b>
   - [Configuring a VPN](https://github.com/SeanChurchman/Virtual-Private-Networks)
